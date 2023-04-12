@@ -1,3 +1,3 @@
 # Django-weather-App
 
-A weather app in django with python requests.
+An application that consumes Open Weather Api and allows users to get weather information of their preferred city .
